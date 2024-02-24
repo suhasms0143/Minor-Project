@@ -40,3 +40,4 @@ For windows users:<br>
 6. Run Project Server:
 <code>python manage.py runserver</code>
 # Minor-Project
+# Minor-Project
